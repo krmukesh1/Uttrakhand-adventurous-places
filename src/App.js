@@ -94,7 +94,7 @@ export default function App() {
             <li className="state-list" key={travelState.place}>
               <div id="travel-state-place">{travelState.place}</div>
 
-              <div id="description">Known For: {travelState.famousFor}</div>
+              <div id="description"> {travelState.famousFor}</div>
 
               <br />
 
