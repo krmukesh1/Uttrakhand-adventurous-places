@@ -1,2 +1,2 @@
-# Uttrakhand-adventurous-places
+#adventurous-places
 Created with CodeSandbox
