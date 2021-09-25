@@ -31,7 +31,7 @@ const travelDictionary = {
     {
       place: "Pachmarhi",
       famousFor:
-        "Pachmarhi, also known as Satpura ki Rani, is a hill station in the central Indian state of Madhya Pradesh. Its many waterfalls include Apsara Vihar, with its calm pool, and soaring, single-drop Silver Fall nearby. The Bee Fall tumbles over a jagged rock face to the northwest. Leopards and Indian bison live in Satpura National Park. The ancient Pandav Caves are a group of 5 dwellings cut out of sandstone on a hil",
+        "Pachmarhi, also known as a Satpura ki Rani, is a hill station in the central Indian state of Madhya Pradesh. Its many waterfalls include Apsara Vihar, with its calm pool, and soaring, single-drop Silver Fall nearby. The Bee Fall tumbles over a jagged rock face to the northwest. Leopards and Indian bison live in Satpura National Park. The ancient Pandav Caves are a group of 5 dwellings cut out of sandstone on a hil",
       Ratings: "4.8/5"
     },
     {
